@@ -1,4 +1,4 @@
-# Deployment of Platform for running PoT (M2PLab) on Raspberry Pi
+# Deployment of platform (M2PLab) for running PoT on a Raspberry Pi 
 
 # Ⅰ.Preparatory work
 
