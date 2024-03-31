@@ -286,13 +286,15 @@ sudo apt-get install octave-sockets
 
 ## 9. **Redis-server installation**
 
+Open the configuration file using the following code and comment out the line bind 127.0.0.1::1
+
 ```
 sudo apt-get install redis-server
 
 sudo nano /etc/redis/redis.conf
 ```
 
-Comment out the line bind 127.0.0.1::1
+Restart the service so that the configuration defined above takes effect
 
 ```
 sudo /etc/init.d/redis-server restart
