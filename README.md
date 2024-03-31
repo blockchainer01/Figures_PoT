@@ -272,6 +272,8 @@ source /home/pi/NetConTop/tomcat/netcontop.sql;
 
 ## 8. **Octave installation**
 
+Execute on the pi bash shell:
+
 ```
 sudo apt-get update
 
