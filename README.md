@@ -4,7 +4,7 @@
 
 
 # Software
-# Ⅰ.Preparatory work
+# I. Preparatory work
 
 ## 1. **Modify the image source:**
 
@@ -34,7 +34,7 @@ static routers=192.168.46.1
 
 static domain_name_servers=192.168.0.1 8.8.8.8
 
-# **Ⅱ. Formal installation**
+# **II. Formal installation**
 
 ## 3. **jdk installation**
 
