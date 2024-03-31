@@ -33,7 +33,7 @@ Finally add:
 
 interface eth0
 
-static ip_address=192.168.46.104/24
+static ip_address=192.168.46.104/24 \# Replace this URL with the one used
 
 static routers=192.168.46.1
 
