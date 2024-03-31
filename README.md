@@ -86,7 +86,7 @@ export PATH=$PATH:${JAVA_PATH}
 
 ## 4. **Php environment configuration**
 
-install  PHP7.3：（https://blog.csdn.net/jdyanghang/article/details/102782780）
+Install  PHP7.3：（https://blog.csdn.net/jdyanghang/article/details/102782780）
 
 ```
 sudo apt install -y -t buster php7.3-fpm php7.3-curl php7.3-gd php7.3-intl php7.3-mbstring php7.3-mysql php7.3-imap php7.3-opcache php7.3-sqlite3 php7.3-xml php7.3-xmlrpc php7.3-zip
@@ -178,7 +178,7 @@ Add in the last line:
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/apr/lib:/home/pi/NetConTop/tomcat/apache-tomcat-8.5.32/lib
 ```
 
-tomcat-native installation:
+Tomcat-native installation:
 
 ```
 cd /home/pi/NetConTop/tomcat/apache-tomcat-8.5.32/bin
@@ -212,7 +212,7 @@ Configure mariadb-server:
 sudo mysql
 ```
 
-use mysql;
+Use mysql;
 
 ```
 UPDATE user SET password = password('1234') WHERE user = "root";
@@ -254,13 +254,15 @@ FLUSH PRIVILEGES;
 
 Insert into database
 
+```
 mysql -u root -p
+```
 
-create database netcontop;
+Create database netcontop;
 
-use netcontop;
+Use netcontop;
 
-set names utf8;
+Set names utf8;
 
 ```
 source /home/pi/NetConTop/tomcat/netcontop.sql;
