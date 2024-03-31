@@ -7,6 +7,9 @@
 * Bipolar High Precision Analog-to-Digital Expansion Board (AD1263)
   
   ![AD1263](https://raw.githubusercontent.com/blockchainer01/Software_platform_PoT/main/Figures/ExpansionBoard.jpg)
+
+* Sampling Boards and Hardware Interfaces
+  
 # Software
 * Version 1.0
 # I. Preparatory Work
