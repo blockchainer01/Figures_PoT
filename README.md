@@ -18,6 +18,9 @@
 
 ## 1. **Modify the image source:**
 
+Execute on the pi bash shell:
+
+```
 sudo nano /etc/apt/sources.list
 
 deb http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/ buster main non-free contrib
@@ -27,6 +30,7 @@ deb-src http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/ buster main non-f
 sudo nano /etc/apt/sources.list.d/raspi.list
 
 deb http://mirrors.tuna.tsinghua.edu.cn/raspberrypi/ buster main ui
+```
 
 ## 2. **Fixing the IP address of the Raspberry Pi**
 
