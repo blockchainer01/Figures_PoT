@@ -2,6 +2,7 @@
 
 # Hardware
 * Raspberry Pi 4 Model B 4GB
+* Bipolar High Precision Analog-to-Digital Expansion Board (AD1263)
 
 # Software
 # I. Preparatory work
