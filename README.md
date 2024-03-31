@@ -14,7 +14,7 @@
   
 # Software
 * Version 1.0
-* Approximate installation time: 1 hour for 1 Raspberry Pi if the required software is already prepared, e.g. Raspberry Pi OS.
+* Approximate installation time: two hours for 1 Raspberry Pi if the required software is already prepared, e.g. Raspberry Pi OS.
 # I. Preparatory Work
 
 ## 1. **Modify the image source:**
