@@ -33,11 +33,11 @@ Finally add:
 
 interface eth0
 
-static ip_address=192.168.46.104/24 \# Replace this URL with the one used
+static ip_address=192.168.46.104/24 \# Replace this IP address with the one used
 
-static routers=192.168.46.1
+static routers=192.168.46.1 \# Make the appropriate changes according to the IP address above
 
-static domain_name_servers=192.168.0.1 8.8.8.8
+static domain_name_servers=192.168.0.1 8.8.8.8 \# Make the appropriate changes according to the router above
 
 # **II. Installation Instructions**
 
