@@ -3,7 +3,7 @@
 # Hardware
 * Raspberry Pi 4 Model B 4GB
 * Bipolar High Precision Analog-to-Digital Expansion Board (AD1263)
-blob:https://github.com/fd6824a2-f2af-4048-97b9-994f5d47b605
+![AD1263](https://raw.githubusercontent.com/blockchainer01/Software_platform_PoT/main/ExpansionBoard.jpg)
 # Software
 # I. Preparatory Work
 
