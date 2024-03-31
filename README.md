@@ -1,5 +1,9 @@
 # Deployment of platform (M2PLab) for running PoT on a Raspberry Pi 
 
+# Hardware
+
+
+# Software
 # Ⅰ.Preparatory work
 
 ## 1. **Modify the image source:**
