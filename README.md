@@ -5,7 +5,7 @@
 * Bipolar High Precision Analog-to-Digital Expansion Board (AD1263)
 
 # Software
-# I. Preparatory work
+# I. Preparatory Work
 
 ## 1. **Modify the image source:**
 
@@ -35,7 +35,7 @@ static routers=192.168.46.1
 
 static domain_name_servers=192.168.0.1 8.8.8.8
 
-# **II. Formal installation**
+# **II. Installation Instructions**
 
 ## 3. **jdk installation**
 
