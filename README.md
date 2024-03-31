@@ -86,7 +86,7 @@ export PATH=$PATH:${JAVA_PATH}
 
 ## 4. **Php environment configuration**
 
-Install  PHP7.3: (https://blog.csdn.net/jdyanghang/article/details/102782780)
+Install  PHP7.3: (https://blog.csdn.net/jdyanghang/article/details/102782780](https://freelinuxtutorials.com/installing-wordpress-raspberry-pi-nginx-mysql-php/)
 
 ```
 sudo apt install -y -t buster php7.3-fpm php7.3-curl php7.3-gd php7.3-intl php7.3-mbstring php7.3-mysql php7.3-imap php7.3-opcache php7.3-sqlite3 php7.3-xml php7.3-xmlrpc php7.3-zip
