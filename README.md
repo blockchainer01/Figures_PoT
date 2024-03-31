@@ -202,6 +202,8 @@ sudo make && sudo make install
 
 ## 7. **Database installation**
 
+Execute on the pi bash shell:
+
 ```
 sudo apt install mariadb-server
 ```
@@ -218,9 +220,9 @@ Use mysql;
 UPDATE user SET password = password('1234') WHERE user = "root";
 
 UPDATE user SET plugin = 'mysql_native_password' WHERE user = 'root';
-```
 
 flush privileges;
+```
 
 Restart the service after execution: sudo systemctl restart mariadb
 
