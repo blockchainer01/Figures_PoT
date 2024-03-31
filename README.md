@@ -34,7 +34,11 @@ deb http://mirrors.tuna.tsinghua.edu.cn/raspberrypi/ buster main ui
 
 ## 2. **Fixing the IP address of the Raspberry Pi**
 
+Execute on the pi bash shell:
+
+```
 sudo nano /etc/dhcpcd.conf
+```
 
 Comment out #option ntp_servers
 
