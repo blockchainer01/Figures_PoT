@@ -195,7 +195,7 @@ sudo apt-get install liboctave-dev
 
 sudo apt-get install octave-sockets
 
-## 9. Redis-server
+## 9. **Redis-server installation**
 
 sudo apt-get install redis-server
 
