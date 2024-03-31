@@ -1,4 +1,4 @@
-# Deployment of platform for running PoT on a Raspberry Pi 
+# Deployment of platform for running PoT on the Raspberry Pi 
 
 # Hardware
 * Raspberry Pi 4 Model B 4GB
