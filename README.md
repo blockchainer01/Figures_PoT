@@ -6,6 +6,7 @@
   
 ![AD1263](https://raw.githubusercontent.com/blockchainer01/Software_platform_PoT/main/Figures/ExpansionBoard.jpg)
 # Software
+* V1.0
 # I. Preparatory Work
 
 ## 1. **Modify the image source:**
