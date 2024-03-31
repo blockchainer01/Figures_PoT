@@ -1,7 +1,7 @@
 # Deployment of platform (M2PLab) for running PoT on a Raspberry Pi 
 
 # Hardware
-
+* Raspberry Pi 4 Model B 4GB
 
 # Software
 # I. Preparatory work
