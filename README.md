@@ -23,7 +23,7 @@ sudo nano /etc/apt/sources.list.d/raspi.list
 
 deb http://mirrors.tuna.tsinghua.edu.cn/raspberrypi/ buster main ui
 
-## 2. **Fix the Raspberry Pi IP address**
+## 2. **Fixing the IP address of the Raspberry Pi**
 
 sudo nano /etc/dhcpcd.conf
 
