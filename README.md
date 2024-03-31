@@ -41,7 +41,7 @@ static domain_name_servers=192.168.0.1 8.8.8.8 \# Make the appropriate changes a
 
 # **II. Installation Instructions**
 
-## 3. **jdk installation**
+## 3. **Jdk installation**
 
 Installation package: jdk-8u301-linux-arm32-vfp-hflt.tar.gz
 
@@ -59,7 +59,7 @@ export JAVA_PATH=${JAVA_HOME}/bin:${JRE_HOME}/bin
 
 export PATH=$PATH:${JAVA_PATH}
 
-## 4. **php environment configuration**
+## 4. **Php environment configuration**
 
 install  PHP7.3：（https://blog.csdn.net/jdyanghang/article/details/102782780）
 
@@ -73,7 +73,7 @@ Monitor changes:
 
 Uncomment: listen.allowed_clients = 127.0.0.1
 
-## 5. **nginx configuration**
+## 5. **Nginx configuration**
 
 Install nginx: sudo apt-get install nginx
 
@@ -195,7 +195,7 @@ sudo apt-get install liboctave-dev
 
 sudo apt-get install octave-sockets
 
-## 9. redis-server
+## 9. Redis-server
 
 sudo apt-get install redis-server
 
