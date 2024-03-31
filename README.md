@@ -183,7 +183,7 @@ source /home/pi/NetConTop/tomcat/netcontop.sql;
 
 
 
-## 8. **Installation of octave**
+## 8. **Octave installation**
 
 sudo apt-get update
 
