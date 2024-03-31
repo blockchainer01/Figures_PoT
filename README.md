@@ -246,25 +246,25 @@ mysql -u root -p
 
 Create a remote access account
 
+```
 CREATE user 'root'@'%' identified by '1234';
 
 GRANT ALL PRIVILEGES ON *.* TO root@'%' WITH GRANT OPTION;
 
 FLUSH PRIVILEGES;
+```
 
 Insert into database
 
 ```
 mysql -u root -p
-```
 
-Create database netcontop;
+create database netcontop;
 
-Use netcontop;
+use netcontop;
 
-Set names utf8;
+set names utf8;
 
-```
 source /home/pi/NetConTop/tomcat/netcontop.sql;
 ```
 
